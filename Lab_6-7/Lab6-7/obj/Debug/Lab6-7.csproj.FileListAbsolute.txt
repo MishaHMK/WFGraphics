@@ -1,0 +1,11 @@
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\bin\Debug\Lab6-7.exe.config
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\bin\Debug\Lab6-7.exe
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\bin\Debug\Lab6-7.pdb
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.csproj.AssemblyReference.cache
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.csproj.SuggestedBindingRedirects.cache
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6_7.Form1.resources
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6_7.Properties.Resources.resources
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.csproj.GenerateResource.cache
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.csproj.CoreCompileInputs.cache
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.exe
+D:\Study\універ\КГ\Lab_6-7\Lab6-7\obj\Debug\Lab6-7.pdb
